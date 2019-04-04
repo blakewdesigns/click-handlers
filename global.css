@@ -1,0 +1,23 @@
+body * {
+    font-family: 'Open Sans';
+}
+button {
+    background: lightgray;
+    padding: 10px 20px;
+    margin: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#color_box {
+    width: 200px;
+    height: 200px;
+}
+.gray {
+    background: gray;
+}
+.blue {
+    background: rgb(67, 111, 255);
+}
+.pink {
+    background: pink;
+}
