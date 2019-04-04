@@ -2,7 +2,7 @@
 
 For this activity, you will be creating an interactive web page that gets updated or modified when various buttons are clicked. 
 
-Begin by making a **fork** of [this](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_click-handlers) repository. In the root of this project you will find  `index.html`.
+Begin by cloning [this](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_click-handlers) repository. In the root of this project you will find  `index.html`.
 
 If you open that file in your web browser, you will see three numbered sections.
 
