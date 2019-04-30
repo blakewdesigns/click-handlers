@@ -25,7 +25,7 @@ let a = 0;
 
 counter_button.onclick = function() {   
     // Complete this function so that it increments the variable named count
-    document.querySelector('#countspan').innerHTML = a++
+    document.querySelector('#countspan').innerHTML = ++a
 }
 
 // Even or odd?
@@ -34,10 +34,10 @@ even_or_odd_button.onclick = function() {
     // Hint: is it divisible by 2?
     if (a % 2)
     {
-        alert ('even')
+        alert ('odd')
     }
     else
     {
-        alert ('odd')
+        alert ('even')
     }
 }
